@@ -331,7 +331,7 @@ color: rgb(203, 149, 105) ;
     border-color: #48475b;
     font-weight: bold;
     line-height: 25px;
-    background-color: #48475b;
+    background-color: #2D2C39 ;
     box-shadow: 5px 5px 10px 5px #2a2935 ;
 }
 
@@ -364,7 +364,7 @@ color: rgb(203, 149, 105) ;
     border-color: #48475b;
     font-weight: bold;
     line-height: 25px;
-    background-color: #48475b;
+    background-color: #2D2C39 ;
     margin: 0px 20px 0px 20px;
     box-shadow: 5px 5px 10px 5px #2a2935 ;
 }
@@ -392,7 +392,7 @@ color: rgb(203, 149, 105) ;
     width: 50%;
     border: 1px;
     border-style: solid;
-    border-color: #48475b;
+    border-color: #2D2C39 ;
     font-weight: bold;
     line-height: 25px;
     background-color: #48475b;
